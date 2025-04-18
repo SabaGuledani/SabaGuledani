@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Saba</h1>
-<h3 align="center">An AI and Data engineer from Georgia</h3>
+<h3 align="center">An AI and Data scientist from Georgia</h3>
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/SabaGuledani) 
